@@ -1,4 +1,4 @@
-# SMS-Sparm-Classifier
+# SMS-Spam-Classifier
 
 **Data Set Information:**
 
